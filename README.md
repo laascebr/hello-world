@@ -1,2 +1,5 @@
 # hello-world
-Justa another repository
+
+Olá Humanos!
+
+Iniciando aqui meu primeiro projeto no GITHUB!
